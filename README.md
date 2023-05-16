@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prithiv Raj
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on Anything or Everything😅
 - 📫 Reach me prithivkaraikal@gmail.com
 
