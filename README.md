@@ -34,7 +34,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithiv-raj10&show_icons=true&theme=dark&locale=en&layout=compact" alt="prithiv-raj10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithiv-raj10&show_icons=true&locale=en" alt="prithiv-raj10" /></p>
+
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=prithiv-raj10&show_icons=true&locale=en" alt="prithiv-raj10" /></p>
 
 
 <!---
